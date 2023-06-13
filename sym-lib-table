@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Memory Flash")(type "Legacy")(uri "${KIPRJMOD}/libs/W25Q128JVSS/Memory_Flash.lib")(options "")(descr ""))
+)
