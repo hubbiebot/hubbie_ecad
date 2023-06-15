@@ -35,11 +35,13 @@ jobs:
         uses: actions/configure-pages@v3
       - name: Rename bom file 
         run: mv bom/ibom.html bom/index.html
+      - name: Rename bom folder 
+        run: mv bom ecad
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
           # Upload entire repository
-          path: './bom'
+          path: './'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
