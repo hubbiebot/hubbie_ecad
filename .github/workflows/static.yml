@@ -36,7 +36,7 @@ jobs:
       - name: Create ecad folder
         run: mkdir web/ecad
       - name: Rename web folder 
-        run: mv web/* web/ecad/*
+        run: mv web/* web/ecad/
       - name: Rename bom file 
         run: mv web/ecad/ibom.html web/ecad/index.html
       - name: Upload artifact
