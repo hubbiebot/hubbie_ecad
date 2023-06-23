@@ -33,15 +33,17 @@ jobs:
         uses: actions/checkout@v3
       - name: Setup Pages
         uses: actions/configure-pages@v3
+      - name: Create ecad folder
+        run: mkdir web/ecad
+      - name: Rename web folder 
+        run: mv web/* web/ecad/*
       - name: Rename bom file 
-        run: mv bom/ibom.html bom/index.html
-      - name: Rename bom folder 
-        run: mv bom ecad
+        run: mv web/ecad/ibom.html web/ecad/index.html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
           # Upload entire repository
-          path: './'
+          path: './web/'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
