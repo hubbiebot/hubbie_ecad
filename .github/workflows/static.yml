@@ -37,7 +37,7 @@ jobs:
         run: |
             mkdir web/ecad
             cd web
-            mv !(ecad) ecad/
+            mv !(ecad) ecad
             mv ecad/ibom.html ecad/index.html
             cd ..
       - name: Upload artifact
