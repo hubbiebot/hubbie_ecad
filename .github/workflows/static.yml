@@ -33,13 +33,6 @@ jobs:
         uses: actions/checkout@v3
       - name: Setup Pages
         uses: actions/configure-pages@v3
-      - name: setup ecad folder
-        run: |
-            mkdir web/ecad
-            cd web
-            mv !(ecad) ecad
-            mv ecad/ibom.html ecad/index.html
-            cd ..
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
