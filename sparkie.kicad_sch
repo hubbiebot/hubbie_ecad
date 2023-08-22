@@ -5,7 +5,7 @@
   (paper "A3")
 
   (title_block
-    (title "hubbie_mboard")
+    (title "Sparkie Embedded Board")
     (date "2023-02-07")
     (company "fortisix")
   )
@@ -2079,7 +2079,6 @@
 
   (no_connect (at 41.91 53.34) (uuid 0a9de052-3116-4259-9f5e-d355a9903b1f))
   (no_connect (at 90.424 233.172) (uuid 91ed2201-6e0b-41c3-9633-70594b702652))
-  (no_connect (at 54.864 233.172) (uuid 9959bc8c-3694-498c-a3e5-6f8dbdc83a8a))
   (no_connect (at 41.91 55.88) (uuid ab5a4245-0c55-429c-b139-7b24a13e05c8))
   (no_connect (at 90.424 235.712) (uuid d25c9e40-54a6-48a1-b516-24311fd5628d))
   (no_connect (at 252.73 149.86) (uuid f3016a4a-e786-412f-940d-33da56a38fb8))
@@ -3224,7 +3223,7 @@
     )
     (pin "1" (uuid 43ae0cb1-bcfc-4336-b1eb-33f0334251f5))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR03") (unit 1)
         )
@@ -3249,7 +3248,7 @@
     )
     (pin "1" (uuid cdb6e556-b30d-4023-b1f0-f1574df14715))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0157") (unit 1)
         )
@@ -3274,7 +3273,7 @@
     )
     (pin "1" (uuid b404fb0b-e281-4e6b-94b2-d0ffa533eb4b))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0145") (unit 1)
         )
@@ -3301,7 +3300,7 @@
     (pin "2" (uuid 76ae8072-e8b3-4fa6-a604-8e99d3ab91c8))
     (pin "3" (uuid c866dc51-e0cd-4885-896a-f25df47e07a4))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "J9") (unit 1)
         )
@@ -3326,7 +3325,7 @@
     )
     (pin "1" (uuid 5af5f472-8c9b-4738-a1a7-d340a6955dfe))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0114") (unit 1)
         )
@@ -3351,7 +3350,7 @@
     )
     (pin "1" (uuid 09c3bfa9-a417-4bbc-aea1-1188782645cb))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0148") (unit 1)
         )
@@ -3376,7 +3375,7 @@
     )
     (pin "1" (uuid 4f53fd16-22ab-4398-97ab-20fdce335b3a))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0115") (unit 1)
         )
@@ -3402,7 +3401,7 @@
     (pin "1" (uuid 8a158367-15bb-4f40-a30b-ff6cc7edd040))
     (pin "2" (uuid d9eefa0f-f57b-422c-b773-98a71c3f54e1))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "R16") (unit 1)
         )
@@ -3427,7 +3426,7 @@
     )
     (pin "1" (uuid b87226c9-e1f2-4c26-a175-0411f02c6bbc))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0141") (unit 1)
         )
@@ -3452,7 +3451,7 @@
     )
     (pin "1" (uuid 53e0d20f-27c4-4e1e-af61-05b584b7009a))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR015") (unit 1)
         )
@@ -3477,7 +3476,7 @@
     )
     (pin "1" (uuid f8175baa-4991-4e70-a714-d520d8a43983))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0116") (unit 1)
         )
@@ -3502,7 +3501,7 @@
     )
     (pin "1" (uuid 44a8758a-16c9-44fd-bfd2-309c17906f7f))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0154") (unit 1)
         )
@@ -3530,7 +3529,7 @@
     (pin "3" (uuid 738e73ff-798d-4ffa-b1c3-b992b7217686))
     (pin "4" (uuid 39c77779-501d-4fb7-83e0-7ce60ca24ef4))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "J5") (unit 1)
         )
@@ -3555,7 +3554,7 @@
     )
     (pin "1" (uuid 501aa4f7-bf5e-4abb-a597-89921fe98fdf))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR017") (unit 1)
         )
@@ -3580,7 +3579,7 @@
     )
     (pin "1" (uuid 23210dda-5d46-499d-8b92-640b64aaf729))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0162") (unit 1)
         )
@@ -3605,7 +3604,7 @@
     )
     (pin "1" (uuid e178fa02-07b3-4313-9e2d-162d1116014f))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0130") (unit 1)
         )
@@ -3631,7 +3630,7 @@
     (pin "1" (uuid bcdcad88-13a7-428a-b055-b873109704d4))
     (pin "2" (uuid d3e4b128-cf1e-4859-9d77-3f1cce39de9c))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "C11") (unit 1)
         )
@@ -3660,7 +3659,7 @@
     (pin "4" (uuid 399f5c75-8b90-4ae9-a75a-da401f628402))
     (pin "5" (uuid fe24ec70-86eb-45bd-a9bd-192180bac4d3))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "J15") (unit 1)
         )
@@ -3686,7 +3685,7 @@
     (pin "1" (uuid 29a4b0a0-584b-47b6-bfbf-1847ef3ca254))
     (pin "2" (uuid a6367011-b4b6-4417-ad2d-18e7eb77d338))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "R11") (unit 1)
         )
@@ -3711,7 +3710,7 @@
     )
     (pin "1" (uuid aeea22e8-79a6-49da-85f2-a08acc353c22))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0119") (unit 1)
         )
@@ -3736,7 +3735,7 @@
     )
     (pin "1" (uuid ccfc73ad-4bb8-406e-a085-80ae0086fa51))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0134") (unit 1)
         )
@@ -3763,7 +3762,7 @@
     (pin "2" (uuid 04bb4933-f6f9-4463-9a87-3fd3fbf83985))
     (pin "3" (uuid 1fa18e2c-822d-4f09-bee1-c6027886692c))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "J12") (unit 1)
         )
@@ -3789,7 +3788,7 @@
     (pin "1" (uuid c11c1016-1904-40be-9cea-37ddff2fe552))
     (pin "2" (uuid 69b4d3b8-eda5-474e-b851-62345bae5dd9))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "C24") (unit 1)
         )
@@ -3814,7 +3813,7 @@
     )
     (pin "1" (uuid 822d0083-9924-47f5-bcc3-92bd7d936f47))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR014") (unit 1)
         )
@@ -3839,7 +3838,7 @@
     )
     (pin "1" (uuid 186f1828-6752-499c-a269-8edd301320f1))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0156") (unit 1)
         )
@@ -3865,7 +3864,7 @@
     (pin "1" (uuid 2926706e-5815-4c77-afac-c44b826b015c))
     (pin "2" (uuid 26597c4f-e426-4c54-a964-aa03d9e2fb32))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "C15") (unit 1)
         )
@@ -3891,7 +3890,7 @@
     (pin "1" (uuid e39cee3f-919a-49b2-a6a4-7be40c618c5a))
     (pin "2" (uuid 4d81783c-7210-4f82-aea8-bce9fd6744a8))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "J16") (unit 1)
         )
@@ -3916,7 +3915,7 @@
     )
     (pin "1" (uuid 594b1274-9d56-4815-9355-6e92e496a8a9))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0158") (unit 1)
         )
@@ -3941,7 +3940,7 @@
     )
     (pin "1" (uuid 807514e5-6ec5-46b2-b7f7-ca626d149b5d))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0153") (unit 1)
         )
@@ -3966,7 +3965,7 @@
     )
     (pin "1" (uuid 96d88a0a-8fa0-49dd-84ab-11df66e807f0))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0142") (unit 1)
         )
@@ -3991,7 +3990,7 @@
     )
     (pin "1" (uuid 4904a7c6-3beb-4717-8f9b-a307fe29654c))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0113") (unit 1)
         )
@@ -4017,7 +4016,7 @@
     (pin "1" (uuid 92eef4c4-d724-4c49-bcda-be2254b3363f))
     (pin "2" (uuid b1797756-84cb-4963-89cc-84b44bfe67e3))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "C1") (unit 1)
         )
@@ -4042,7 +4041,7 @@
     )
     (pin "1" (uuid 92ed2d6c-303d-47b4-a1d3-e3182ae81bb6))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0137") (unit 1)
         )
@@ -4068,7 +4067,7 @@
     (pin "1" (uuid 8f4f3f00-927b-4d0d-accf-ed2b1593a81a))
     (pin "2" (uuid c69481e2-3052-454f-8941-6a0381c75281))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "R1") (unit 1)
         )
@@ -4149,7 +4148,7 @@
     (pin "8" (uuid 13fc3144-6700-4f55-b8d7-85f2c18daccd))
     (pin "9" (uuid 502e337b-c885-4695-be28-e6f6886b9781))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "U5") (unit 1)
         )
@@ -4175,7 +4174,7 @@
     (pin "1" (uuid e0e873e5-3efb-461c-9015-ccb7e56ba6ee))
     (pin "2" (uuid e3b22cc2-0d8e-4b8f-b060-b9a9078fd87d))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "BT1") (unit 1)
         )
@@ -4200,7 +4199,7 @@
     )
     (pin "1" (uuid fa19ca00-2c27-4ecb-8980-83cc7a8f3922))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR09") (unit 1)
         )
@@ -4225,7 +4224,7 @@
     )
     (pin "1" (uuid a3c3805f-b038-4436-a086-d9209bed5508))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR02") (unit 1)
         )
@@ -4249,7 +4248,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "H2") (unit 1)
         )
@@ -4274,7 +4273,7 @@
     )
     (pin "1" (uuid ece85933-2e53-4426-ac02-1706c477e4bd))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR012") (unit 1)
         )
@@ -4299,7 +4298,7 @@
     )
     (pin "1" (uuid bc4877d4-dd44-4f0f-85cc-1d6a0b3a1688))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0111") (unit 1)
         )
@@ -4323,7 +4322,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "H3") (unit 1)
         )
@@ -4348,7 +4347,7 @@
     )
     (pin "1" (uuid de7fb547-9912-4e66-a01e-ba4c7e86868b))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0131") (unit 1)
         )
@@ -4374,7 +4373,7 @@
     (pin "1" (uuid 3ff9ac91-898e-4baf-a8a4-4c77bcd3e01c))
     (pin "2" (uuid cde8e231-c8ca-42ec-b5b6-f600e7ca26cd))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "R15") (unit 1)
         )
@@ -4399,7 +4398,7 @@
     )
     (pin "1" (uuid 6ed87499-da60-49f0-a62d-b2bdfa3116de))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0161") (unit 1)
         )
@@ -4424,7 +4423,7 @@
     )
     (pin "1" (uuid a4b6f18a-b7f9-4409-8bc6-2e1165dbe8fb))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0101") (unit 1)
         )
@@ -4450,7 +4449,7 @@
     (pin "1" (uuid 4e991fbe-a311-4cba-99d3-aefeeea4073d))
     (pin "2" (uuid b42fc3b8-6cff-4786-a222-5b830687d7e3))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "C9") (unit 1)
         )
@@ -4475,7 +4474,7 @@
     )
     (pin "1" (uuid cd32d533-9617-4aaf-bfab-4283f4a62586))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR04") (unit 1)
         )
@@ -4500,7 +4499,7 @@
     )
     (pin "1" (uuid 6808323d-7a43-4a45-b156-2907a4207279))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0160") (unit 1)
         )
@@ -4525,7 +4524,7 @@
     )
     (pin "1" (uuid 0297049c-c15e-4b6f-b740-c823532f599b))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR011") (unit 1)
         )
@@ -4552,7 +4551,7 @@
     (pin "2" (uuid 93fff7da-8e64-4aee-99ca-f24c26545f30))
     (pin "3" (uuid 80ba48df-cb70-466e-a88f-fd3e76caa487))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "J11") (unit 1)
         )
@@ -4577,7 +4576,7 @@
     )
     (pin "1" (uuid 78b544fe-37c8-4a02-afd8-4469587503a1))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR08") (unit 1)
         )
@@ -4602,7 +4601,7 @@
     )
     (pin "1" (uuid 50e15dd0-0727-4eab-a1b3-89e04d0d51bd))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0104") (unit 1)
         )
@@ -4628,7 +4627,7 @@
     (pin "1" (uuid fd48443f-6b56-48a0-b72a-23415de103b9))
     (pin "2" (uuid c1c4718d-729f-43ec-a9c8-43f867459bea))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "C12") (unit 1)
         )
@@ -4653,7 +4652,7 @@
     )
     (pin "1" (uuid 10385b5e-caa8-4773-8329-04b11b115777))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0102") (unit 1)
         )
@@ -4680,7 +4679,7 @@
     (pin "2" (uuid 0e848ab6-7661-4454-bfda-4ba81f42669a))
     (pin "3" (uuid b6cecf55-9800-40e6-81ba-99ddbe5df564))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "J21") (unit 1)
         )
@@ -4706,7 +4705,7 @@
     (pin "1" (uuid 62835106-b537-4f38-b23d-583223a2f00d))
     (pin "2" (uuid 3744013f-c16b-4c38-84ab-f5d75d5d0ec1))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "C5") (unit 1)
         )
@@ -4731,7 +4730,7 @@
     )
     (pin "1" (uuid 2eca42cc-fc50-4a5c-97bc-467e8204ada1))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0163") (unit 1)
         )
@@ -4756,7 +4755,7 @@
     )
     (pin "1" (uuid 3a7fd6e9-4e9d-4c37-9ac3-008824b5ca3f))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0146") (unit 1)
         )
@@ -4782,7 +4781,7 @@
     (pin "1" (uuid 26694082-d5e3-48b0-96ec-0f3caabd12d9))
     (pin "2" (uuid 7d1ab32f-94af-457a-81ff-e5c672c6cf9f))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "C14") (unit 1)
         )
@@ -4808,7 +4807,7 @@
     (pin "1" (uuid dc667427-9d72-4be5-b33b-c25e966bfe76))
     (pin "2" (uuid 1649803a-6725-4e6b-b53b-a04cdb1fbb48))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "R12") (unit 1)
         )
@@ -4833,7 +4832,7 @@
     )
     (pin "1" (uuid baeff2e6-56a8-4ca1-9151-8d5426335ea0))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0151") (unit 1)
         )
@@ -4860,7 +4859,7 @@
     (pin "2" (uuid 65f55967-df78-478f-b01d-6f87f86bec78))
     (pin "3" (uuid 6d955ddc-89f2-44d1-84df-936fd3c8dd0f))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "J14") (unit 1)
         )
@@ -4885,7 +4884,7 @@
     )
     (pin "1" (uuid 41b44dc8-2d3a-4c75-98b2-420ca9032a98))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0136") (unit 1)
         )
@@ -4912,7 +4911,7 @@
     (pin "2" (uuid 0fa99410-d78a-4c17-b53f-6baf00a2a18e))
     (pin "3" (uuid 4aa5e2f7-77a5-49e3-a08c-c6aca085a336))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "J17") (unit 1)
         )
@@ -4939,7 +4938,7 @@
     (pin "2" (uuid 70add7ca-6b21-48da-9826-51dd52e84f45))
     (pin "3" (uuid 210e7a47-7cd7-4af2-94e5-d26aed5c5443))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "J4") (unit 1)
         )
@@ -4987,7 +4986,7 @@
     (pin "8" (uuid 68fe26d7-07fc-40d0-ade4-94f86fd40adb))
     (pin "9" (uuid 40a1f57a-4c8e-4394-a8f9-531f0a59c6c6))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "U4") (unit 1)
         )
@@ -5013,7 +5012,7 @@
     (pin "1" (uuid 07b44043-f6cd-4a64-8b2a-d9549d034e12))
     (pin "2" (uuid c934e746-e871-4a46-a0bc-5b6396768af8))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "J2") (unit 1)
         )
@@ -5039,7 +5038,7 @@
     (pin "1" (uuid 3ac1cd7e-129e-4529-90f4-cd29bbb635a7))
     (pin "2" (uuid b40fef88-5e65-4f8a-b376-5842b5737f3d))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "C16") (unit 1)
         )
@@ -5065,7 +5064,7 @@
     (pin "1" (uuid 8ec9d34a-fa34-40d5-a95d-569329570133))
     (pin "2" (uuid d6e44ac0-38af-4831-ba32-3d3254ccf123))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "J20") (unit 1)
         )
@@ -5090,7 +5089,7 @@
     )
     (pin "1" (uuid 12326764-0bc4-4555-b4ba-16e556785fd5))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0159") (unit 1)
         )
@@ -5116,7 +5115,7 @@
     (pin "1" (uuid 9a835c08-81c0-43be-927d-1a76bb406709))
     (pin "2" (uuid aabae441-28d8-48c1-94da-33c98e29a998))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "D1") (unit 1)
         )
@@ -5142,7 +5141,7 @@
     (pin "1" (uuid 49bf6326-2c54-4ba4-a31f-019dab289920))
     (pin "2" (uuid 5b3ea815-71bd-461c-8727-5d8b13046c8d))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "J18") (unit 1)
         )
@@ -5183,7 +5182,7 @@
     (pin "B9" (uuid 4657da15-8015-4557-b9a2-b5ed4af61348))
     (pin "S1" (uuid b6deb766-3d09-4c02-ad34-d80ffffc8f94))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "J22") (unit 1)
         )
@@ -5209,7 +5208,7 @@
     (pin "1" (uuid b4111477-6f9b-4375-bdde-2a857857b89e))
     (pin "2" (uuid 8b011429-15c8-4af6-9a7a-93fb4f6dc4d0))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "C10") (unit 1)
         )
@@ -5235,7 +5234,7 @@
     (pin "1" (uuid e067cf77-b143-42ec-bc1f-6f0a2d6ef4b6))
     (pin "2" (uuid b35112cf-74f1-4c90-b8bc-8e20590a9066))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "R6") (unit 1)
         )
@@ -5261,7 +5260,7 @@
     (pin "1" (uuid b8967f70-64fc-44a1-97b0-aef240a73478))
     (pin "2" (uuid 692a5711-35fa-43a2-9eec-cf82aa605b08))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "C17") (unit 1)
         )
@@ -5286,7 +5285,7 @@
     )
     (pin "1" (uuid 6a420732-9ceb-47c8-a87d-53cffaadab9f))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR07") (unit 1)
         )
@@ -5313,7 +5312,7 @@
     (pin "2" (uuid 372bce55-e00a-418c-ba5f-4e0ab4564729))
     (pin "3" (uuid 00fec2df-4f0b-4444-b8c7-f33d84aca676))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "J13") (unit 1)
         )
@@ -5339,7 +5338,7 @@
     (pin "1" (uuid f971aa95-5188-4cae-b649-ba5c3c1373f8))
     (pin "2" (uuid 8cc3d0ee-dc74-4bb1-8a3a-b6ee72fc7801))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "C20") (unit 1)
         )
@@ -5365,7 +5364,7 @@
     (pin "1" (uuid 88132a38-5997-4207-8494-d349f5594a3d))
     (pin "2" (uuid ddabeb9c-eb75-4c9b-a9f5-4e6d64794159))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "D2") (unit 1)
         )
@@ -5392,7 +5391,7 @@
     (pin "2" (uuid 3804ca2a-571e-423d-b5a4-810bc94fc6c4))
     (pin "3" (uuid ca7187e9-6e11-40d5-864d-e678b7a2ccc5))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "J8") (unit 1)
         )
@@ -5418,7 +5417,7 @@
     (pin "1" (uuid 1d81b64b-18d0-448a-87b9-5fe97e6605df))
     (pin "2" (uuid ef1f01a1-2266-45cb-8ccf-cd562ba0aa23))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "J3") (unit 1)
         )
@@ -5444,7 +5443,7 @@
     (pin "1" (uuid e335b037-348e-439e-a61e-92e89aa99853))
     (pin "2" (uuid 4889882d-3217-4dc9-93dd-29f249b0fb14))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "C21") (unit 1)
         )
@@ -5469,7 +5468,7 @@
     )
     (pin "1" (uuid 342c9e77-54c9-464a-b4e8-ae773eeed0fd))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0109") (unit 1)
         )
@@ -5494,7 +5493,7 @@
     )
     (pin "1" (uuid 96601270-5bc4-4b3f-bb26-9b3979d5285b))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0144") (unit 1)
         )
@@ -5520,7 +5519,7 @@
     (pin "1" (uuid 22d1fc9e-2c1a-44be-875a-6cd6e5c7afc4))
     (pin "2" (uuid 1d035105-dfd2-446a-8cfa-11c9e832a06e))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "C19") (unit 1)
         )
@@ -5545,7 +5544,7 @@
     )
     (pin "1" (uuid f45ab5d0-9c21-47fb-b7d3-89b313d09ed0))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR01") (unit 1)
         )
@@ -5571,7 +5570,7 @@
     (pin "1" (uuid 8753b424-bbaa-4118-a8db-d9f050bcda0b))
     (pin "2" (uuid 00f862c1-438c-4813-a30e-609b8529c30f))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "C18") (unit 1)
         )
@@ -5598,7 +5597,7 @@
     (pin "2" (uuid 418dc061-b158-4bfb-a2eb-6e85ee31522b))
     (pin "3" (uuid e7cdba8c-5863-49e9-9a62-9ce5ebc0e303))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "U2") (unit 1)
         )
@@ -5623,7 +5622,7 @@
     )
     (pin "1" (uuid 0510e7d7-22b5-4b9d-a06d-c9dbb2d865f2))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR05") (unit 1)
         )
@@ -5648,7 +5647,7 @@
     )
     (pin "1" (uuid 358fa702-e260-4a29-869a-323842f39bbe))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0147") (unit 1)
         )
@@ -5673,7 +5672,7 @@
     )
     (pin "1" (uuid 1cb6cff9-d405-4bed-b6a4-bf6d7f6b694e))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0133") (unit 1)
         )
@@ -5698,7 +5697,7 @@
     )
     (pin "1" (uuid 3e5a629e-f2f0-4d35-8d4a-0e4a4fd54030))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR010") (unit 1)
         )
@@ -5723,7 +5722,7 @@
     )
     (pin "1" (uuid 6f497168-6e64-45a5-b53d-33a38de3e1c3))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0107") (unit 1)
         )
@@ -5748,7 +5747,7 @@
     )
     (pin "1" (uuid 0c451992-7289-4932-839b-6eed9ace2c2a))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0112") (unit 1)
         )
@@ -5773,7 +5772,7 @@
     )
     (pin "1" (uuid d5e9f2d2-624a-4998-8f6a-e6f3ff3fad80))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR016") (unit 1)
         )
@@ -5798,7 +5797,7 @@
     )
     (pin "1" (uuid f9356154-abdb-4b3e-adcd-c97b12132d39))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0149") (unit 1)
         )
@@ -5830,7 +5829,7 @@
     (pin "7" (uuid 250f3b9d-d819-49ce-bfbc-0f267d36cb84))
     (pin "8" (uuid 75a50d92-ed0c-4e46-900a-bfa1534302bb))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "U3") (unit 1)
         )
@@ -5856,7 +5855,7 @@
     (pin "1" (uuid 6f1c6e41-314f-45db-bf9b-0e75dbd29234))
     (pin "2" (uuid a278232a-c7f5-4e7c-bf9e-8921b22ef17e))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "C2") (unit 1)
         )
@@ -5882,7 +5881,7 @@
     (pin "1" (uuid 057322aa-31bf-45e6-bc2c-44a38a532676))
     (pin "2" (uuid e8f01c84-5e51-428f-8677-3aedd7050abf))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "C23") (unit 1)
         )
@@ -5909,7 +5908,7 @@
     (pin "2" (uuid 2e654562-388e-4cf1-9005-c5e493901787))
     (pin "3" (uuid 0b3c10b3-0cca-4d5a-a106-98406aa03983))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "J10") (unit 1)
         )
@@ -5935,7 +5934,7 @@
     (pin "1" (uuid d472c840-2df6-45c3-af93-5b264639d004))
     (pin "2" (uuid a9e15466-f596-469d-b3f6-1cc0518beda2))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "C7") (unit 1)
         )
@@ -5959,7 +5958,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "H4") (unit 1)
         )
@@ -5985,7 +5984,7 @@
     (pin "1" (uuid 401ff09a-2b11-4efd-83df-497221838dfd))
     (pin "2" (uuid c2cd72c3-ea2c-4c2e-a9ee-fe9c5956d018))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "Y1") (unit 1)
         )
@@ -6010,7 +6009,7 @@
     )
     (pin "1" (uuid 5eab13ea-eff0-44da-b6bf-946d35997b40))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0122") (unit 1)
         )
@@ -6058,7 +6057,7 @@
     (pin "8" (uuid 662afd2c-6994-4988-a894-a42b8c1a255d))
     (pin "9" (uuid 7a28270c-4211-4912-bafb-a22b6db10001))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "U1") (unit 1)
         )
@@ -6084,7 +6083,7 @@
     (pin "1" (uuid 44b028c5-a6c1-48d4-bbd1-715cc242e221))
     (pin "2" (uuid c8d05760-cd03-40a0-80fb-9548675e7c36))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "BZ1") (unit 1)
         )
@@ -6110,7 +6109,7 @@
     (pin "1" (uuid 5152d49e-a1d7-4c67-b8e5-fe62175ac736))
     (pin "2" (uuid effd528a-badf-42fc-b902-467853d6b680))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "C6") (unit 1)
         )
@@ -6135,9 +6134,34 @@
     )
     (pin "1" (uuid 6bcccd99-0176-4f3f-b15f-38fb67c7e0ac))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0110") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "power:GND") (at 54.864 233.172 270) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid c05dff69-8ef8-4c51-9ab6-c11878af39b2)
+    (property "Reference" "#PWR018" (at 48.514 233.172 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 52.07 233.172 90)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Footprint" "" (at 54.864 233.172 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 54.864 233.172 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 58b64c74-e2a4-489d-9237-2422026cf4be))
+    (instances
+      (project "sparkie"
+        (path "/4b079591-78aa-460a-b818-67c079ee5725"
+          (reference "#PWR018") (unit 1)
         )
       )
     )
@@ -6160,7 +6184,7 @@
     )
     (pin "1" (uuid 1178a8d3-b1d4-4cb0-b76b-24897ab0d229))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0155") (unit 1)
         )
@@ -6186,7 +6210,7 @@
     (pin "1" (uuid e8be9c3c-5d68-42c7-b8c6-b410f96fa7ac))
     (pin "2" (uuid 84ee4964-d6da-49a1-8ad9-24a4108e76d1))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "R7") (unit 1)
         )
@@ -6211,7 +6235,7 @@
     )
     (pin "1" (uuid 191f7b1f-6c5c-4623-9d84-a01645ca129c))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0140") (unit 1)
         )
@@ -6236,7 +6260,7 @@
     )
     (pin "1" (uuid 3a5e04b1-5e8e-4448-81f0-e58e8260742c))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0138") (unit 1)
         )
@@ -6262,7 +6286,7 @@
     (pin "1" (uuid 0ba5df70-4453-45ad-8128-4453fac0d821))
     (pin "2" (uuid 834195ff-c77a-46b3-874a-8fa6ed216e7e))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "R13") (unit 1)
         )
@@ -6287,7 +6311,7 @@
     )
     (pin "1" (uuid c7342230-4b17-43b3-ad88-1a9d1f85217b))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0139") (unit 1)
         )
@@ -6313,7 +6337,7 @@
     (pin "1" (uuid 251e3e0c-daef-4b6e-aea9-946dd70950d3))
     (pin "2" (uuid dafd54a7-098d-43d4-a055-6e7f70dcd8c3))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "R8") (unit 1)
         )
@@ -6339,7 +6363,7 @@
     (pin "1" (uuid 4aff9997-74dc-4a60-acab-34820eeaeba1))
     (pin "2" (uuid e7d133fe-d9e2-4812-82d0-13c8d4c3283c))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "R4") (unit 1)
         )
@@ -6364,7 +6388,7 @@
     )
     (pin "1" (uuid dfa2c460-1f66-4232-87dd-7cba2767ef7e))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0152") (unit 1)
         )
@@ -6389,7 +6413,7 @@
     )
     (pin "1" (uuid ff3834e0-9d60-4d8c-8a7e-90b5d2274b8f))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0150") (unit 1)
         )
@@ -6414,7 +6438,7 @@
     )
     (pin "1" (uuid 4bbce620-44a2-428a-bbe1-afe494acb6c1))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0135") (unit 1)
         )
@@ -6440,7 +6464,7 @@
     (pin "1" (uuid 87cf8049-508c-4f9e-ba06-18179aaf1007))
     (pin "2" (uuid 262d9897-d753-4e31-85d1-1ceff2c41467))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "R3") (unit 1)
         )
@@ -6466,7 +6490,7 @@
     (pin "1" (uuid 2c6505c2-64bb-4bc7-a74a-93a352e5a782))
     (pin "2" (uuid 350361ee-37d5-4d0a-96ef-7e3365bee83b))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "C3") (unit 1)
         )
@@ -6492,7 +6516,7 @@
     (pin "1" (uuid 646338f2-8fac-43f8-813c-10c59526c251))
     (pin "2" (uuid d9ddfb89-c955-4e8f-81ae-20481eaa90f6))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "J19") (unit 1)
         )
@@ -6518,7 +6542,7 @@
     (pin "1" (uuid 745f583e-e871-4f3c-80f0-9143a9785d0f))
     (pin "2" (uuid d96c9b1b-3399-44b4-9160-db6cdd2abf56))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "C4") (unit 1)
         )
@@ -6543,7 +6567,7 @@
     )
     (pin "1" (uuid e0ae5698-71e9-451c-ace3-020723938cbd))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0164") (unit 1)
         )
@@ -6567,7 +6591,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "H1") (unit 1)
         )
@@ -6592,7 +6616,7 @@
     )
     (pin "1" (uuid 521f9829-7458-42a5-af95-927569042fb2))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0143") (unit 1)
         )
@@ -6617,7 +6641,7 @@
     )
     (pin "1" (uuid bbaab5ee-e27e-4d81-ab10-fb8c82b22fff))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0132") (unit 1)
         )
@@ -6642,7 +6666,7 @@
     )
     (pin "1" (uuid dcb4f2bd-6734-4fb0-81e9-0c4ba8e8feb9))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0129") (unit 1)
         )
@@ -6667,7 +6691,7 @@
     )
     (pin "1" (uuid 5b01dc82-b362-40c5-9624-f0b566b040e1))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0165") (unit 1)
         )
@@ -6692,7 +6716,7 @@
     )
     (pin "1" (uuid 370c81a9-151c-441c-933b-8b6409ede603))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR06") (unit 1)
         )
@@ -6717,7 +6741,7 @@
     )
     (pin "1" (uuid 14a6b1b1-adb9-4f54-b579-8de4288f1e0f))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR013") (unit 1)
         )
@@ -6745,7 +6769,7 @@
     (pin "3" (uuid 4453af8c-07bd-40db-881d-6c11dcc97574))
     (pin "4" (uuid aa503cf6-f471-4b69-a462-0dc582887105))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "J6") (unit 1)
         )
@@ -6770,7 +6794,7 @@
     )
     (pin "1" (uuid 7f7a3088-45a0-40a0-92b7-2ff6f0e9d646))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0128") (unit 1)
         )
@@ -6798,7 +6822,7 @@
     (pin "3" (uuid 79ccaa96-97ac-43bf-adcb-e4eb9b759def))
     (pin "4" (uuid 1085475d-8773-4d77-9c51-61bc0f1a651d))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "J7") (unit 1)
         )
@@ -6823,7 +6847,7 @@
     )
     (pin "1" (uuid 07dbc11f-9d5c-48d5-a19e-f679c71d8699))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0127") (unit 1)
         )
@@ -6849,7 +6873,7 @@
     (pin "1" (uuid 938573d1-357e-47c1-aa90-8d76e434a98c))
     (pin "2" (uuid 82291064-44a8-4101-a855-ce012a1c7416))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "R14") (unit 1)
         )
@@ -6875,7 +6899,7 @@
     (pin "1" (uuid 4caa338c-4550-4a61-bf77-9c195387373d))
     (pin "2" (uuid 369e1341-02e7-4fd2-9c95-6b0d132cd11c))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "C8") (unit 1)
         )
@@ -6901,7 +6925,7 @@
     (pin "1" (uuid 46f65583-789d-4846-8368-8592ea68a02c))
     (pin "2" (uuid 40b9fa1d-43c4-4165-9970-8c277717b85d))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "C22") (unit 1)
         )
@@ -6927,7 +6951,7 @@
     (pin "1" (uuid fa3fa968-bbc8-4165-b3ec-1ec3e59d0a9e))
     (pin "2" (uuid 5a8ae541-647e-4238-8bc7-0c6a02dd52ee))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "R5") (unit 1)
         )
@@ -6953,7 +6977,7 @@
     (pin "1" (uuid 48bfad29-0102-4ebf-9c07-68e511a2842f))
     (pin "2" (uuid e885d745-44ba-4883-a987-3586e94fbfab))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "R2") (unit 1)
         )
@@ -6979,7 +7003,7 @@
     (pin "1" (uuid 1c924c6c-189c-457d-a769-53f0d91ed306))
     (pin "2" (uuid 07937ec6-3b16-4245-a395-7c6f7697676e))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "C13") (unit 1)
         )
@@ -7004,7 +7028,7 @@
     )
     (pin "1" (uuid 5244ffbc-66da-4064-bdef-3d1bbd7ed7ac))
     (instances
-      (project "hubbie"
+      (project "sparkie"
         (path "/4b079591-78aa-460a-b818-67c079ee5725"
           (reference "#PWR0105") (unit 1)
         )
